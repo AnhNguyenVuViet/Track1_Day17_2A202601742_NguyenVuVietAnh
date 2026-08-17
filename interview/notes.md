@@ -26,8 +26,6 @@
 
 ## Lab Coach: Mây
 
-> ⚠️ Ghi chép trùng hoàn toàn với bản của Dương — cần xác nhận lại trước khi dùng làm bằng chứng.
-
 | Điều cần giữ lại | Ghi chép |
 |---|---|
 | Câu chuyện gần nhất: user đang ở đâu và cố làm gì? | Là labcoach, quản lý khoảng 40–60 học viên |
