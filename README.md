@@ -7,7 +7,6 @@
 | MHV | 2A202601742 |
 | Họ và tên | Nguyễn Vũ Việt Anh |
 | Tên nhóm | Anh Trai Mâm Hai |
-| Thành viên nhóm | Nguyễn Vũ Việt Anh — Trưởng nhóm · *[thêm tên + vai trò các thành viên còn lại trước khi nộp]* |
 | Case đã chọn | Case C — AI Support Radar |
 
 ---
@@ -196,5 +195,3 @@ Support Queue (OUTPUT)
 - **Tách Pain thành hai giả thuyết cạnh tranh A (detection) vs B (capacity)** và chốt điều tra A trước để loại trừ sớm rủi ro "feature giải sai bài toán".
 - **Bỏ ý định hỏi thẳng learner về các tín hiệu kiểu AI-analytics** (dừng lâu, đổi đáp án) vì dễ làm lộ solution; thay bằng câu hỏi hành vi thật ("lúc đó bạn đã làm gì...").
 - **Sau khi rà soát bản ghi Chặng 3:** ghi nhận cần follow-up tính năng "V-learn session" và tách ghi chép giữa các coach — đã đưa vào mục 4.4 và 5.
-#   T r a c k 1 _ D a y 1 7 _ 2 A 2 0 2 6 0 1 7 4 2 _ N g u y e n V u V i e t A n h  
- 
