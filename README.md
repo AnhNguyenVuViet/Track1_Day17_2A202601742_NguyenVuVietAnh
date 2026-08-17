@@ -9,6 +9,14 @@
 | Tên nhóm | Anh Trai Mâm Hai |
 | Case đã chọn | Case C — AI Support Radar |
 
+**Thành viên nhóm:**
+
+| Họ và tên | Mã học viên | Vai trò |
+|---|---|---|
+| Nguyễn Vũ Việt Anh | 2A202601742 | Đặt giả thuyết |
+| Nguyễn Đình Quốc | 2A202601935 | Phỏng vấn |
+| Mai Tiến Mạnh | 2A202601922 | Chuẩn bị câu hỏi |
+
 ---
 
 ## 2. Chặng 1 — Đặt giả thuyết (Problem Hypothesis Brief)
